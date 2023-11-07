@@ -3,12 +3,22 @@ entries:
   traefik:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-05T12:56:40.540592605+08:00"
+    created: "2023-11-07T21:10:20.015698164+08:00"
     description: A Helm chart for Kubernetes
-    digest: 118f620141baf362f7e9d422b1dbba9701afc3b980055412faa9e7fc0de96fb1
+    digest: 405324a3bc66996dee4c38668551241aab77fc9d8390d31047dd5f0943b59b74
+    name: traefik
+    type: application
+    urls:
+    - https://pigfall.github.io/helm-charts/traefik-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-07T21:10:20.015571628+08:00"
+    description: A Helm chart for Kubernetes
+    digest: cec8d08027d1f8a5f7f4fe8a78c9541a8710211dab4d9156416b0c7139703403
     name: traefik
     type: application
     urls:
     - https://pigfall.github.io/helm-charts/traefik-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-05T12:56:40.540189688+08:00"
+generated: "2023-11-07T21:10:20.01523329+08:00"
