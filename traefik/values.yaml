@@ -1,2 +1,1 @@
-namespace: traefik
 demoIngressNamespace: traefik-demo-ingress
