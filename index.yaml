@@ -3,7 +3,17 @@ entries:
   traefik:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-07T21:24:54.397878108+08:00"
+    created: "2023-11-10T13:33:10.500314595+08:00"
+    description: A Helm chart for Kubernetes
+    digest: b14b07e6c3a9e15d84319326194d252e180347ded211e79e7097578aac2e00c9
+    name: traefik
+    type: application
+    urls:
+    - https://pigfall.github.io/helm-charts/traefik-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-10T13:33:10.499501349+08:00"
     description: A Helm chart for Kubernetes
     digest: 7b06505dd18770265a31331ea2ac4c29f3647542ccfc9592a24585fd2a650dcf
     name: traefik
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-07T21:24:54.397795718+08:00"
+    created: "2023-11-10T13:33:10.479726244+08:00"
     description: A Helm chart for Kubernetes
     digest: cec8d08027d1f8a5f7f4fe8a78c9541a8710211dab4d9156416b0c7139703403
     name: traefik
@@ -24,7 +34,7 @@ entries:
   whoami:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-07T21:24:54.397942349+08:00"
+    created: "2023-11-10T13:33:10.501375743+08:00"
     description: Whoami for traefik ingress
     digest: 3ed30aa969b7050fa5f468683636636905993c53b06ae0d4895730c57f493009
     name: whoami
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://pigfall.github.io/helm-charts/whoami-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-07T21:24:54.397600921+08:00"
+generated: "2023-11-10T13:33:10.478385654+08:00"
